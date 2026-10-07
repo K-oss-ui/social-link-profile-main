@@ -76,7 +76,11 @@ p {
 }
 
 li {
-    margin-bottom: 20px;
+    margin-bottom: 16px;
+}
+
+li:last-child {
+    margin-bottom: 0;
 }
 
 a {
